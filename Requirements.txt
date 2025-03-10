@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+altair==5.0.1
+watermark==2.5.0
+openpyxl==3.1.2
+xlsxwriter==3.2.2
